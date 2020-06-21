@@ -120,6 +120,7 @@ nav a:hover {
 
 #product div {
   padding: 250px 150px;
+  overflow: hidden;
 }
 
 #product div h1 {
